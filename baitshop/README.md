@@ -5,10 +5,10 @@
 **Project:** Live Bait Shop  
 
 ### Project Description
-A redesigned, mobile-friendly, and accessible version of Howard’s Lakeside General Store website.
+A redesigned, mobile-friendly, and accessible version of The Fish Store website.
 
 ### Live URL
-[https://ozarktechwebdev.com/kodez-html/LiveBaitShop/](https://ozarktechwebdev.com/kodez-html/LiveBaitShop/)
+[http://www.ozarktechwebdev.com/kody/](http://www.ozarktechwebdev.com/kody/baitshop/)
 
 ### Screenshot
 ![Screenshot of Live Bait Shop](screenshot.png)
